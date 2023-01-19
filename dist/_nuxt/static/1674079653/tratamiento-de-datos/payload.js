@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/tratamiento-de-datos", {data:[{}],fetch:{},mutations:[]});

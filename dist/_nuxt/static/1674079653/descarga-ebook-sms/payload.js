@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/descarga-ebook-sms", {data:[{}],fetch:{},mutations:[]});

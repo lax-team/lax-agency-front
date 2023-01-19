@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/whatsapp-consultoria", {data:[{}],fetch:{},mutations:[]});

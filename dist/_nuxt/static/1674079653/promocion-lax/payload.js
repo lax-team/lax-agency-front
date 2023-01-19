@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/promocion-lax", {data:[{}],fetch:{},mutations:[]});

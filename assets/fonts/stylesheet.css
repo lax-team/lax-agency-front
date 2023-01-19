@@ -1,0 +1,64 @@
+@font-face {
+  font-family: 'Barcelony';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('~assets/fonts/Barcelony.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Cabo_Slab_Regular';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('~assets/fonts/Cabo_Slab_Regular.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'PangramSans-Bold';
+  font-style: normal;
+  font-display: swap;
+  src: url('~assets/fonts/PPPangramSans-Bold.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'PangramSans-Medium';
+  font-style: normal;
+  font-display: swap;
+  src: url('~assets/fonts/PPPangramSans-Medium.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'PangramSans-Regular';
+  font-style: normal;
+  font-display: swap;
+  src: url('~assets/fonts/PPPangramSans-CompactRegular.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'PangramSans-Thin';
+  font-style: normal;
+  font-display: swap;
+  src: url('~assets/fonts/PPPangramSans-Thin.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'MonumentExtended-Black';
+  font-style: normal;
+  font-display: swap;
+  src: url('~assets/fonts/MonumentExtended-Black.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'MonumentExtended-Regular';
+  font-style: normal;
+  font-display: swap;
+  src: url('~assets/fonts/MonumentExtended-Regular.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'MonumentExtended-Light';
+  font-style: normal;
+  font-display: swap;
+  src: url('~assets/fonts/MonumentExtended-Light.otf') format('truetype');
+}

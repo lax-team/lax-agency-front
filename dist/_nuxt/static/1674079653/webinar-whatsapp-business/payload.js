@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/webinar-whatsapp-business", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[108],{805:function(n,t,e){"use strict";e.r(t);var o={name:"PageConstructionPage",components:{PageConstruction:e(232).a}},c=e(58),component=Object(c.a)(o,(function(){var n=this.$createElement;return(this._self._c||n)("PageConstruction")}),[],!1,null,"5b335539",null);t.default=component.exports}}]);

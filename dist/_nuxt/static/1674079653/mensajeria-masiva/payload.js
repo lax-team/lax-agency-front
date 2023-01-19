@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/mensajeria-masiva", {data:[{}],fetch:{},mutations:[]});

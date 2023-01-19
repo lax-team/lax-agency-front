@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/webinar-laxacademy", {data:[{}],fetch:{},mutations:[]});
